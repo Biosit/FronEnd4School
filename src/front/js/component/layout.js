@@ -9,10 +9,10 @@ import injectContext from "./store/appContext";
 
 import { Header } from "./component/header";
 import { Navbar } from "./component/navbar";
-import { Carousel } from "./component/carousel";
+import { Carousel } from "./component/carouselL";
 import { Formulary } from "./component/formulary";
 import { Footer } from "./component/footer";
-import { Button } from "./component/button";
+
 
 //create your first component
 const Layout = () => {

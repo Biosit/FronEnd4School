@@ -6,7 +6,9 @@ export const Footer = () => (
     <div id="iconos">
       <a href="#">
         <i className="bi bi-facebook"></i>
-        
+        <a href="https://es-la.facebook.com/">
+          
+        </a>  
       </a>
       <a href="#">
         <i className="bi bi-twitter"></i>
@@ -17,3 +19,5 @@ export const Footer = () => (
     </div>
   </footer>
 );
+
+
